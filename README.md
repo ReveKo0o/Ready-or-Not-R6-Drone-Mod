@@ -1,4 +1,6 @@
 ## Ready or Not R6 Drone Mod
+<img width="1920" height="1080" alt="200C03~1" src="https://github.com/user-attachments/assets/e2d86f95-c888-4e11-ab2c-0f201cf91b2b" />
+
 I have added the well-known drone from *Tom Clancy's Rainbow Six Siege* to the game *Ready or Not*, complete with its original model and functionality; you can use it to place pins, allowing you to mark and reveal the locations of enemies or innocent civilians to your teammates.
 # Drone Features
 ## 1. The ability to jump
@@ -31,4 +33,13 @@ However, this only appears that way from your own perspective while in drone vie
 
 ## 3.❗If every player in the lobby hops in the drone at the same time in the mission (not counting Los Suenos Police Headquarters/ The station) "Toc" always declares something like "mission failed" and cancels the operation, bringing it to an end; therefore, no matter what you do, stay in communication with your teammates, and ensure that not all players in the lobby switch to their drones at the same time❗
 ## ⚠️The most likely reason for this is that the game’s logic for switching to the drone which relies on the "possess" function—fails when there are no active players (i.e., when everyone is in drone mode); the system cannot locate or "see" any player, forcing it to prematurely end the mission.
-## 4. This mod does not work in offline mod unf (at the moment) 
+## 4. This mod does not work in offline/singleplayer even with bots unf (at the moment) 
+
+# Showcase / ingame footeage
+
+
+https://github.com/user-attachments/assets/5400db26-b9f2-4de8-8055-4085f1a8c384
+
+
+
+
