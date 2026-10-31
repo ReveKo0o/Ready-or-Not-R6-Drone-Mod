@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/1e455312-f1df-4bca-94e4-3584810f3c52
 
 Also big thanks for these❤️
 
-Model:https://sketchfab.com/3d-models/drone-r6-7812c6a914a842f7bf0e1df63da3cdd6
+Model:https://sketchfab.com/3d-models/drone-r6-7812c6a914a842f7bf0e1df63da3cdd6 (highly modified from the original)
 
 Texture:https://sketchfab.com/3d-models/drone-r6-7812c6a914a842f7bf0e1df63da3cdd6
 
