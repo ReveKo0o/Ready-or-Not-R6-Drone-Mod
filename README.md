@@ -1,5 +1,5 @@
 ## Ready or Not R6 Drone Mod
-<img width="1207" height="512" alt="image" src="https://github.com/user-attachments/assets/c1b8a6cb-fa13-4009-88a5-2c429bd9a747" />
+<img width="1199" height="503" alt="image" src="https://github.com/user-attachments/assets/ce5b5ca8-109a-413e-ade8-715483ce35e0" />
 
 
 I have added the well-known drone from *Tom Clancy's Rainbow Six Siege* to the game *Ready or Not*, you can use it to place pins, allowing you to mark and reveal the locations of enemies or innocent civillians to your teammates.
