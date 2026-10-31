@@ -62,6 +62,7 @@ https://github.com/user-attachments/assets/1e455312-f1df-4bca-94e4-3584810f3c52
 <img width="1920" height="1080" alt="20A859~1" src="https://github.com/user-attachments/assets/e3a5686d-372e-41a6-9d85-b38f6ad55984" />
 <img width="1920" height="1080" alt="20E868~1" src="https://github.com/user-attachments/assets/e6ea9ea8-94c4-4318-a152-31b4446c354c" />
 <img width="1920" height="1080" alt="20D1C9~1" src="https://github.com/user-attachments/assets/a8ae7fdf-01c0-4950-be85-54c60954bc8b" />
+<img width="1920" height="1080" alt="20261031013343_1" src="https://github.com/user-attachments/assets/2cc3f286-85bb-44d8-9192-a3542aa33a5e" />
 
 Also big thanks for these❤️
 
